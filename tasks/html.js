@@ -18,11 +18,6 @@ var ptr = require('promise-task-runner')
 //------//
 
 var ptc = new PromiseTaskContainer();
-var environments = {
-    dev: 'dev'
-    , test: 'test'
-    , prod: 'prod'
-};
 
 //-------//
 // Tasks //
