@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bluebird": "^2.9.8",
-    "fs-bluebird": "^0.1.1",
+    "bluebird": "^2.9.9",
+    "fs-bluebird": "^0.1.2",
+    "gulp": "^3.8.11",
     "promise-task-runner": "0.0.1",
     "rimraf": "^2.2.8"
   },
